@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  
+##  Carla Lucas
 
-<!--
-**carlalucas/carlalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student - ENSAE Paris  
+Master’s Student in Economics – Institut Polytechnique de Paris
+</div>
 
-Here are some ideas to get you started:
+Focused on quantitative modeling, ML and AI applications in macroeconomics and finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge)
+![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge)
+![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge)
+![SAS](https://img.shields.io/badge/SAS-111111?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-111111?style=for-the-badge)
+
+---
+
+**Python Ecosystem**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
+
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/)  
+Paris, France
