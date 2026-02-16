@@ -35,5 +35,5 @@ Focused on quantitative modeling, ML and AI applications in macroeconomics and f
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/)  
+[LinkedIn](https://www.linkedin.com/in/carla-lucas/)  
 Paris, France
