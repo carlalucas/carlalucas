@@ -3,7 +3,7 @@
 ##  Carla Lucas
 
 Engineering student - ENSAE Paris  
-Master’s student in Economics – Institut Polytechnique de Paris
+Master’s student in Economics - Institut Polytechnique de Paris
 </div>
 
 Focused on quantitative modeling, ML and AI methods for macroeconomics and finance.
